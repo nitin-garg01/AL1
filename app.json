@@ -1,0 +1,37 @@
+{
+  "id": "d6633c66-f7ed-42dc-bbec-d3023350405a",
+  "name": "AL1",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{
+    "name": "KenpatIntegrations",
+    "version": "1.0.0.102",
+    "id": "57f19c35-43f8-4ef3-8cc6-f6c061a554da",
+    "publisher": "KenpatIntegrations"
+  }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 55000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
